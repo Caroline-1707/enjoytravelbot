@@ -76,6 +76,7 @@ enjoytravelbot/
 
 ## Автор
 
-### Caroline-1707
-- GitHub: Caroline-1707
-- Telegram: @Caroline_17
+Caroline-1707
+GitHub: [Caroline-1707](https://github.com/Caroline-1707)
+Telegram: [@Caroline_17](https://t.me/Caroline_17)
+
