@@ -57,13 +57,15 @@
 
 ## Структура проекта
 
+```text
 enjoytravelbot/
-├── .env.template          # Шаблон для файла .env
-├── main.py                # Основной файл для запуска бота
-├── requirements.txt       # Список зависимостей
-├── README.md              # Документация (этот файл)
-├── database/              # Папка для базы данных SQLite3
-├── handlers/              # Модули для обработки команд и сообщений
-├── keyboards/             # Клавиатуры и кнопки для бота
-├── utils/                 # Вспомогательные функции и утилиты
-└── config.py              # Конфигурация бота
+├── .env.template
+├── main.py
+├── requirements.txt
+├── README.md
+├── database/
+├── handlers/
+├── keyboards/
+├── utils/
+└── config.py
+
